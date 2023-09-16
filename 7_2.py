@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 30 14:06:53 2023
-
-@author: jaisi
-"""
-
 fname = input("Enter file name: ")
 fh = open(fname)
 b=0
