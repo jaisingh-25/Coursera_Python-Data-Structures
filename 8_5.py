@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 31 19:48:47 2023
-
-@author: jaisi
-"""
-
 fname = input("Enter file name: ")
 if len(fname) < 1:
     fname = "mbox-short.txt"
